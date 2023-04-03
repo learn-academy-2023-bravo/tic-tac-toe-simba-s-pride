@@ -1,5 +1,17 @@
-.square {
+.squares {
   border: 2px solid black;
   height: 100px;
   width: 100px;
+  font-size: 5rem;
+  text-align: center;
 }
+
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  width: 325px;
+  margin: 0 auto;
+}
+
+h1{text-align: center ;}
+h2{text-align: center ;}
