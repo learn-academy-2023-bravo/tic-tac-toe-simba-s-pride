@@ -39,8 +39,6 @@ const App = () => {
           return true
         }
 
-
-
       }
     }
 
